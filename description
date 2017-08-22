@@ -1,0 +1,3 @@
+API REST para FacturaScripts versión 2015.
+
+Dicha API esta basada en Silex; un microframework creado por SensioLabs basado en componentes de Symfony y Simple bajo la misma filosofía del microframework Sinatra de Ruby.
